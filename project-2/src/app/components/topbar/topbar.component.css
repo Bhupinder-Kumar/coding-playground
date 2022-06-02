@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    background: #fb5f66;
+    padding: 15px 20px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.brand a{
+    color: #fff;
+    font-size: 28px;
+    font-weight: 600;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+nav ul li{
+    margin: 0px 20px;
+}
+nav ul li a{
+    color: #fff;
+}
